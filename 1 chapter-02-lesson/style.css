@@ -1,0 +1,79 @@
+html{
+    padding-top: 5px;
+    background-image: url(background.jpg);
+}
+
+body{
+    width: 75%;
+    padding: 40px;
+    margin: 15px auto;
+    background-color: #d6da096e;
+    border-radius: 30px;
+}
+
+h1{
+    color: #e87e04;
+    font-size: 2em;
+    margin-left: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h2{
+    color: #e87e04;
+    font-size: 1.7em;
+    margin-left: 20px;
+    font-family: 'Roboto Condensed',sans-serif;
+}
+
+p{
+    color: #22313f;
+    font-size: 1.5em;
+    line-height: 150%;
+    margin-top: 20px;
+    margin-left: 40px;
+    font-family: 'Roboto Condensed',sans-serif;
+}
+
+.emphasis{
+    font-weight: bold;
+}
+
+.newfont{
+    font-weight: 900;
+}
+
+/* самодеятельность*/
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: orange;
+    font-weight: 700;
+}
+
+.newp{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.bigpiece{
+    font-size: large;
+    font-weight: 900;
+}
+
+/*TEXT SHADOW Красивая тень*/
+h4{
+    font-size: 40px;
+    text-shadow: 0 1px 0 #c00000,
+                 0 2px 0 #c50000,
+                 0 3px 0 #b10101,
+                 0 4px 0 #ac0101,
+                 0 5px 0 #9e0404,
+                 0 6px 1px rgba(0, 0, 0, .2),
+                 0 0 5px rgba(0, 0, 0, .1),
+                 0 1px 3px rgba(0, 0, 0, .1),
+                 0 3px 5px rgba(0, 0, 0, .1),
+                 0 5px 10px rgba(0, 0, 0, .2),
+                 0 10px 10px rgba(0, 0, 0, .3),
+                 0 20px 20px rgba(0, 0, 0, .1);
+}
+/*TEXT SHADOW Красивая тень*/

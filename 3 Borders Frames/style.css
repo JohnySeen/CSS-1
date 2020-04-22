@@ -1,0 +1,46 @@
+div{
+    display: inline-block;
+    border-color: blue;
+    width: 100px;
+    /*height: 100px;*/
+    font-size: 20px;
+    padding: 40px 0;
+    margin: 10px;
+    border-width: 6px;
+    text-align: center;
+    vertical-align: center;
+}
+
+.d1{border-style: solid;}
+
+.d2{border-style:dotted;}
+
+.d3{border-style: dashed;}
+
+.d4{border-style:double;}
+
+.d5{border-style: groove;}
+
+.d6{border-style:ridge;}
+
+.d7{border-style: outset;}
+
+.d8{border-style:inset;}
+
+.d9{
+    border: 6px solid blueviolet ;
+    border-left:dashed chartreuse;
+    border-right:double darkgoldenrod;
+}
+
+.d10{border-style:double;
+    border-radius: 20px;
+}
+
+.d11{border-style:dashed;
+    border-radius: 10px/40px;
+}
+
+.d12{border-style:groove;
+    border-radius: 10px 20px 30px 40px;
+}
